@@ -29,9 +29,8 @@ site_description: >-
 
 # Repository
 repo_name: DLIProj/notes
-repo_url: https://github.com/DLIProj/notes
-edit_uri: ""
-
+repo_url: https://github.com/DLIProj
+edit_uri: "notes/docs"
 # Copyright
 copyright: Copyright &copy; 2016 - 2021 Adarsh
 
