@@ -19,21 +19,21 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: Tech Docs - Adarsh
+site_url: https://dliproj.github.io/notes/
+site_author: Adarsh BM
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
   documentation of your Open Source or commercial project – customizable,
   searchable, mobile-friendly, 40+ languages
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: DLIProj/notes
+repo_url: https://github.com/DLIProj/notes
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2021 Martin Donath
+copyright: Copyright &copy; 2016 - 2021 Adarsh
 
 # Configuration
 theme:
@@ -115,9 +115,8 @@ extra:
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/squidfunk/
+      link: https://linkedin.com/in/adarshbalachandran/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/squidfunk
 
