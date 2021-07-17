@@ -1,4 +1,4 @@
-# peachpie-docs
+# Adarsh notes
 
 Documentation for the PeachPie platform.
 
