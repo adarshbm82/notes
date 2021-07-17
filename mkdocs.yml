@@ -57,8 +57,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.smartsymbols
-  - pymdownx.highlight:
-      linenums: true
+  - pymdownx.highlight
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
