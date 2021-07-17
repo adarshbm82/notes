@@ -28,7 +28,7 @@ theme:
   features:
     - tabs
     - instant
-
+    - navigation.tabs
     
   # Don't include MkDocs' JavaScript
   include_search_page: false

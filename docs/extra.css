@@ -17,6 +17,9 @@ body, html {
   font-weight: 600;
 }
 
+.md-grid {
+  max-width: 1440px;
+}
 /**/
 
 details.tiny {
