@@ -8,8 +8,12 @@ site_url: 'https://dliproj.github.io/notes'
 repo_url: https://github.com/DLIProj/notes
 edit_uri: https://github.com/DLIProj/notes/edit/master/docs/
 
+repo_name: notes
+repo_url: https://github.com/DLIProj/notes
+edit_uri: edit/master/docs
+
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2021 iolevel s.r.o.'
+copyright: 'Copyright &copy; 2016 - 2021 Adarsh'
 
 # Configuration
 theme:
