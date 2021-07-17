@@ -1,13 +1,12 @@
 # Project information
 site_name: 'Adarsh notes'
 site_description: 'Adarsh notes'
-site_author: 'peachpie'
+site_author: 'adarsh'
 site_url: 'https://dliproj.github.io/notes'
 
 # Repository
-repo_name: 'peachpiecompiler/peachpie'
-repo_url: 'https://github.com/DLIProj/notes'
-edit_uri: 'https://github.com/DLIProj/notes/edit/master/docs/'
+repo_url: https://github.com/DLIProj/notes
+edit_uri: https://github.com/DLIProj/notes/edit/master/docs/
 
 # Copyright
 copyright: 'Copyright &copy; 2016 - 2021 iolevel s.r.o.'
