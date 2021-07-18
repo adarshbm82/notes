@@ -5,8 +5,8 @@ site_author: 'adarsh'
 site_url: 'https://dliproj.github.io/notes'
 
 # Repository
-repo_url: https://github.com/DLIProj/notes/
-edit_uri: https://github.com/DLIProj/notes/edit/master/docs/
+repo_url: https://github.com/adarshbm82/notes/
+edit_uri: https://github.com/adarshbm82/notes/edit/master/docs/
 
 # Copyright
 copyright: 'Copyright &copy; 2016 - 2021 Adarsh'
