@@ -5,11 +5,8 @@ site_author: 'adarsh'
 site_url: 'https://dliproj.github.io/notes'
 
 # Repository
-repo_url: https://github.com/DLIProj/notes
 edit_uri: https://github.com/DLIProj/notes/edit/master/docs/
-
 repo_name: notes
-repo_url: https://github.com/DLIProj/notes
 edit_uri: edit/master/docs
 
 # Copyright
